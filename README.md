@@ -15,6 +15,10 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 * [Natural Language Processing](#natural-language-processing)
 * [Music Generation](#music-generation)
 * [Reinforcement learning](#reinforcement-learning)
+* [Neural AI](#neural-ai)
+* [Biology](#biology)
+* [Physics](#physics)
+
 
 
 ## Continual learning
@@ -46,6 +50,7 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 [Back to Top](#contents)
 
 * [Combinatorial optimization and reasoning with GNNs](https://arxiv.org/abs/2102.09544) (*Cappart et al*, **February 2021**)
+* [Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478) (*Bronstein et al*, **April 2021**)
 
 
 
@@ -89,3 +94,24 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 * [Multi-agent Deep Reinforcement Learning : a survey](https://link.springer.com/article/10.1007/s10462-021-09996-w) (*Gronauer et al*, **April 2021**)
 * [Exploration strategies in Deep Reinforcement Learning](https://lilianweng.github.io/lil-log/2020/06/07/exploration-strategies-in-deep-reinforcement-learning.html) (*Lilian Weng*'s blog, **June 2020**)
 * [Curriculum for Reinforcement Learning](https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html) (*Lilian Weng*'s blog, **January 2020**)
+
+
+
+## Neural AI
+[Back to Top](#contents)
+
+Empty ...
+
+
+
+## Biology
+[Back to Top](#contents)
+
+Empty ...
+
+
+
+## Physics
+[Back to Top](#contents)
+
+* [Physics-based deep learning](https://arxiv.org/abs/2109.05237) (*Thuerey et al*, **September 2021**)
