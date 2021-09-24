@@ -32,6 +32,7 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 ## Training dynamics and Optimization
 
 * [Evolution strategies](https://lilianweng.github.io/lil-log/2019/09/05/evolution-strategies.html) (*Lilian Weng*'s blog, **September 2019**)
+* [A survey of optimization methods from a machine learning perspective](https://arxiv.org/abs/1906.06821) (*Sun et al*, **October 2019**)
 
 
 
