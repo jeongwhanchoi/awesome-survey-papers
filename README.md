@@ -10,6 +10,7 @@ A currated list of Survey Papers in Machine Learning. Feel free to add your favo
 * [Generative modelling](#generative-modelling)
 * [Self-supervised learning](#self-supervised-learning)
 * [Natural Language Processing](#natural-language-processing)
+* [Music Generation](#music-generation)
 
 
 ## Continual learning
@@ -20,13 +21,14 @@ A currated list of Survey Papers in Machine Learning. Feel free to add your favo
 
 
 
-## Transformers and attention mechanisms
+## Efficient Transformers
 [Back to Top](#contents)
 
 * [A Survey of Transformers](https://arxiv.org/abs/2106.04554)
-* [An attentive survey of Attention models](https://arxiv.org/pdf/1904.02874.pdf)
 * [Efficient Transformers : a survey](https://arxiv.org/abs/2009.06732)
+* [A practical survey on Faster and Lighter transformers](https://arxiv.org/abs/2103.14636)
 * [A primer on Transformers, Attention, Tokenization and Positional Encodings](https://msank00.github.io/blog/2020/03/15/blog_605_Survey_attention)
+* [An attentive survey of Attention models](https://arxiv.org/pdf/1904.02874)
 
 
 
@@ -52,6 +54,8 @@ A currated list of Survey Papers in Machine Learning. Feel free to add your favo
 
 ## Natural Language Processing
 [Back to Top](#contents)
+
+* [Emergent Multi-Agent Communication in the Deep Learning Era](https://arxiv.org/abs/2006.02419) (Lazaridou et al, 2020)
 
 ## Music Generation
 [Back to Top](#contents)
