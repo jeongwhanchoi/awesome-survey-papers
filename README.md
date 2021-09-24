@@ -72,7 +72,7 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 
 * [Controllable neural text generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html) (*Lilian Weng*'s blog, **January 2021**)
 * [Emergent Multi-Agent Communication in the Deep Learning Era](https://arxiv.org/abs/2006.02419) (*Lazaridou et al*, **June 2020**)
-
+* [Which BERT : a survey organizing contextualized encoders](https://arxiv.org/abs/2010.00854) (*Xia et al*, **October 2020**)
 
 
 ## Music Generation
