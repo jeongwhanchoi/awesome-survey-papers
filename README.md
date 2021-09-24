@@ -1,6 +1,8 @@
 # awesome-survey-papers
 
-A currated list of **Survey Papers** in **Machine Learning**. Feel free to add your favourite **literature reviews** or **survey blog posts** by raising a *pull request*. For any questions, suggestions or typos, feel free to reach out to me at [hugo.sonnery@mail.mcgill.ca](mailto:hugo.sonnery@mail.mcgill.ca)].
+A currated list of **Survey Papers** in **Machine Learning**. Feel free to add your favourite **literature reviews** or **survey blog posts** by raising a *pull request*. 
+
+For any questions, suggestions or typos, feel free to reach out to me at [hugo.sonnery@mail.mcgill.ca](mailto:hugo.sonnery@mail.mcgill.ca).
 
 ## Contents
 
