@@ -68,22 +68,22 @@ A currated list of Survey Papers in Machine Learning. Feel free to add your favo
 ## Natural Language Processing
 [Back to Top](#contents)
 
-* [Emergent Multi-Agent Communication in the Deep Learning Era](https://arxiv.org/abs/2006.02419) (Lazaridou et al, 2020)
-* [Controllable neural text generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html) (Lilian Weng's blog)
+* [Emergent Multi-Agent Communication in the Deep Learning Era](https://arxiv.org/abs/2006.02419) (*Lazaridou et al*, **June 2020**)
+* [Controllable neural text generation](https://lilianweng.github.io/lil-log/2021/01/02/controllable-neural-text-generation.html) (*Lilian Weng*'s blog, **January 2021**)
 
 
 
 ## Music Generation
 [Back to Top](#contents)
 
-* [Deep Learning techniques for Music Generation](https://hal.archives-ouvertes.fr/hal-01660772)
-* [A comprehensive survey on Deep Music Generation](https://arxiv.org/abs/2011.06801)
+* [Deep Learning techniques for Music Generation](https://hal.archives-ouvertes.fr/hal-01660772) (*Briot et al*, **June 2019**)
+* [A comprehensive survey on Deep Music Generation](https://arxiv.org/abs/2011.06801) (*Ji et al*, **November 2020**)
 
 
 
 ## Reinforcement Learning
 [Back to Top](#contents)
 
-* [Exploration strategies in Deep Reinforcement Learning](https://lilianweng.github.io/lil-log/2020/06/07/exploration-strategies-in-deep-reinforcement-learning.html) (Lilian Weng's blog)
-* [Curriculum for Reinforcement Learning](https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html) (Lilian Weng's blog)
-* [Multi-agent Deep Reinforcement Learning : a survey](https://link.springer.com/article/10.1007/s10462-021-09996-w) (Gronauer et al, **April 2021**)
+* [Exploration strategies in Deep Reinforcement Learning](https://lilianweng.github.io/lil-log/2020/06/07/exploration-strategies-in-deep-reinforcement-learning.html) (*Lilian Weng*'s blog, **June 2020**)
+* [Curriculum for Reinforcement Learning](https://lilianweng.github.io/lil-log/2020/01/29/curriculum-for-reinforcement-learning.html) (*Lilian Weng*'s blog, **January 2020**)
+* [Multi-agent Deep Reinforcement Learning : a survey](https://link.springer.com/article/10.1007/s10462-021-09996-w) (*Gronauer et al*, **April 2021**)
