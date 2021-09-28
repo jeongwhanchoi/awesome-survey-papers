@@ -84,6 +84,7 @@ For any questions, suggestions or typos, feel free to reach out to me at [hugo.s
 ## Music Generation
 [Back to Top](#contents)
 
+* [Music Composition with Deep Learning: A Review](https://arxiv.org/abs/2108.12290v2) (*Hernandez-Olival et al*, **August 2021**)
 * [A comprehensive survey on Deep Music Generation](https://arxiv.org/abs/2011.06801) (*Ji et al*, **November 2020**)
 * [Deep Learning techniques for Music Generation](https://hal.archives-ouvertes.fr/hal-01660772) (*Briot et al*, **June 2019**)
 
